@@ -7,8 +7,8 @@ const textConfig = {
     text8: "Ááá...Đau tym quá <3 ",
     text9: "Mẹ ơi, con muốn lấy bé này ^^ ",
     text10: "Thực ra, Anh có điều muốn nói với em, đó chính là ... ",
-    text11: "Gặp rồi anh nói cho haha ^^",
-    text12: "Hì hì <3. Em hiểu anh quá cơ :3  ",
+    text11: "Hẹn em cuối tuần gặp rồi anh nói cho haha ^^",
+    text12: "Hì hì <3. Em hiểu anh quá cơ :3 Yêu Yêu  ",
 };
 
 $(document).ready(function() {
