@@ -58,8 +58,6 @@ $(document).ready(function() {
     }
     // move random button póition
     function moveButton() {
-        var audio = new Audio("sound/Swish1.mp3");
-        audio.play();
         if (screen.width <= 600) {
             var x = Math.random() * 300;
             var y = Math.random() * 500;
